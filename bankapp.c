@@ -1,12 +1,5 @@
 /* program to implement a simple banking application 
- *************************************************************
- * Author          Dept.            Date            Notes
- *************************************************************
- * Xinchen Hou   Stats&CompSci    March 07 2020     Initial version
- * Xinchen Hou   Stats&CompSci    March 08 2020     Case -w,-d
- * Xinchen Hou   Stats&CompSci    March 09 2020     Fix bugs 
- *
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
